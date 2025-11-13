@@ -1,0 +1,13 @@
+/* Cambiar color del navbar */
+.custom-nav {
+  background-color: #999999 !important; /* Cambia el color aquí */
+  height: 70px; /* navbar pequeño */
+}
+
+/* Imagen más grande sobresaliendo */
+.logo-grande {
+  height: 110px;        /* Imagen mucho más grande que el navbar */
+  position: absolute;
+  top: -35px;           /* Sube la imagen */
+  left: 0;
+}
